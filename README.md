@@ -1,4 +1,4 @@
-# samson-project
+# Application of Sentiment Analysis and Text Mining on Hotel & Restaurant Reviews
 
 📌 Project Overview
 
